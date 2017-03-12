@@ -1,6 +1,6 @@
 # Dylan Rhodius
 
-I'm a junior full stack web developer who is particularly keen on learning more about mobile software development and good UX Design. I believe mobile is the future – and I want in.
+I'm a junior full-stack web developer who is particularly keen on learning more about mobile software development and good UX Design. I believe mobile is the future – and I want in.
 
 Makers has instilled in me the value of good coding practices, and I can confidently say that I always try to craft testable and maintainable code. You can count on me to give as much importance to developing solid back-ends as well as beautiful front-ends. I believe my [background in engineering & product design](http://dylanrhodius.wixsite.com/dylanrhodius) and [Makers projects](https://github.com/dylanrhodius/CV#projects) are a testament to this. I'm committed to adding value to the team by contributing a hardworking, can-do mindset and a collaborative attitude from day one.
 
