@@ -6,7 +6,7 @@ Makers has instilled in me the value of good coding practices, and I can confide
 
 After one of the most intense and rewarding 3 months of my life, I'm now looking to join a hardworking and creative environment that will challenge me to push my abilities to the next level. A place where agile, test driven development and pair programming are common practice.
 
-[Skills](https://github.com/dylanrhodius/CV#skills) | [Education](https://github.com/dylanrhodius/CV#education) | [Experience](https://github.com/dylanrhodius/CV#experience) | [Interests](https://github.com/dylanrhodius/CV#interests) | [LinkedIn](https://linkedin.com/in/dylanrhodius)
+Jump to: [Skills](https://github.com/dylanrhodius/CV#skills) | [Education](https://github.com/dylanrhodius/CV#education) | [Experience](https://github.com/dylanrhodius/CV#experience) | [Interests](https://github.com/dylanrhodius/CV#interests) | [LinkedIn](https://linkedin.com/in/dylanrhodius)
 
 ## Projects
 
