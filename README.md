@@ -78,10 +78,13 @@ I'm fortunate to have grown-up in different countries. This meant having to adap
 * Also proud of being told my enthusiasm was what allowed me to integrate very quickly to an already formed team of 4 people.
 
 ## Interests
+Interested in many things, but in particular:
+
 * Mobile development & UX Design
 * Product design and technology in general
+* Infographics and explaining things visually
 * Playing and watching football
-* Alpine skiing
+* Skiing
 * Recently got into surfing - love it!
 * Any kind of multiplayer gaming. Board games, pc games, anything.. You name it, I'll join you - and try to beat you at it!
 * Languages (native in Spanish, bilingual in English, conversational in Dutch, Portuguese & French).
